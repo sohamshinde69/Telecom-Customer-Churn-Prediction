@@ -22,7 +22,7 @@ streamlit_app.py --> Streamlit app for churn prediction
 <br>
 model.pkl --> Trained Random Forest model
 <br>
-encoder.pkl --> ColumnTransformer and OneHotEncoder
+encoder.pkl --> ColumnTransformer / OneHotEncoder
 <br>
 label_encoder.pkl --> Target label encoder
 <h2>Dataset Information</h2>
