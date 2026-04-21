@@ -1,7 +1,7 @@
 # Telecom-Customer-Churn-Prediction
 A Machine Learning project that predicts whether a telecom customer is likely to churn (leave the service) or stay, based on customer demographics, subscription details, and billing behavior.
 <br>
-<h3>This project includes:</h3>
+<h2>This project includes:</h2>
 Exploratory Data Analysis (EDA)
 <br>
 Model Training & Comparison
@@ -11,4 +11,7 @@ Hyperparameter Tuning using GridSearchCV
 Streamlit Web App Deployment
 <br>
 <br>
-<h3>Project Objective</h3>
+<h2>Project Objective</h2>
+Customer churn is a major problem in telecom companies. Acquiring new customers costs more than retaining existing ones.
+<br>
+The objective of this project is to help telecom companies identify customers who are likely to leave, so preventive actions can be taken early.
