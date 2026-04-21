@@ -156,3 +156,15 @@ Then app predicts:
 ✅ Customer Will Stay
 <br>
 ❌ Customer Likely To Churn
+<br>
+Streamlit App link : https://telecom-customer-churn-predictio.streamlit.app/
+<h2>Future Improvements</h2>
+So according to the comfussion matrix this model ismodel is better at predicting “No churn” as its biased 
+<br>
+dataset is imbalanced:
+,br>
+No churn: 5163
+<br>
+Churn: 1869
+<br>
+Need to fix that in my next project 
