@@ -162,7 +162,7 @@ Streamlit App link : https://telecom-customer-churn-predictio.streamlit.app/
 So according to the comfussion matrix this model ismodel is better at predicting “No churn” as its biased 
 <br>
 dataset is imbalanced:
-,br>
+<br>
 No churn: 5163
 <br>
 Churn: 1869
