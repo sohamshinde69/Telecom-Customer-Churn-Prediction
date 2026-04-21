@@ -26,7 +26,6 @@ encoder.pkl --> ColumnTransformer and OneHotEncoder
 <br>
 label_encoder.pkl --> Target label encoder
 <h2>Dataset Information</h2>
-<br>
 <h3>Dataset used: Telco Customer Churn Dataset</h3>
 Contains customer details such as:
 <br>
@@ -62,3 +61,12 @@ Overall Churn Rate
 73.5% customers stayed
 <br>
 Roughly 1 in 4 customers leave the company
+<h2>Key Business Insights</h2>
+Contract Type Matters Most
+<br>
+Month-to-month customers had highest churn
+<br>
+One-year contract customers stayed more
+<br>
+Two-year contract customers had strongest retention (~97%)
+<h4>Long-term contracts reduce churn significantly.</h4>
