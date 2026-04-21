@@ -143,7 +143,6 @@ Achieved approximately:
 Chosen because it gave the best performance.
 
 <h2>Streamlit App Features</h2>
-<br>
 <h4>Users can input:</h4>
 
 Customer details
