@@ -27,8 +27,7 @@ encoder.pkl --> ColumnTransformer and OneHotEncoder
 label_encoder.pkl --> Target label encoder
 <h2>Dataset Information</h2>
 <br>
-Dataset used: Telco Customer Churn Dataset
-<br>
+<h3>Dataset used: Telco Customer Churn Dataset</h3>
 Contains customer details such as:
 <br>
 Gender
