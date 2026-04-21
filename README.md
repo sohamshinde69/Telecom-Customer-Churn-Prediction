@@ -69,4 +69,91 @@ Month-to-month customers had highest churn
 One-year contract customers stayed more
 <br>
 Two-year contract customers had strongest retention (~97%)
-<h4>Long-term contracts reduce churn significantly.</h4>
+<h4> ➡️ Long-term contracts reduce churn significantly.</h4>
+
+<h2>Payment Method Impact</h2>
+Customers using Electronic Check showed higher churn compared to automatic payment methods.
+<br>
+➡️Auto-payment users are more stable customers.
+
+<h2>Internet Service Type</h2>
+Fiber Optic users churned more
+<br>
+DSL users stayed more
+<br>
+No internet service users had highest retention
+<br>
+<h4>➡️ Premium users may expect better service/support.</h4>
+
+<h2>Senior Citizens Churn More</h2>
+Senior citizens had lower retention compared to non-senior customers.
+<br>
+<h4>➡️ Better support plans can help retention.</h4>
+<br>
+<h2>Security & Support Services Reduce Churn</h2>
+Customers with:
+<br>
+Online Security
+<br>
+Tech Support
+<br>
+Device Protection
+<br>
+Online Backup
+<br>
+were much more likely to stay.
+
+<h4>➡️ Value-added services improve loyalty.</h4>
+
+<H2>Data Preprocessing</H2>
+
+<H3>Performed the following steps:</H3>
+
+Removed customerID
+<BR>
+Converted TotalCharges to numeric
+<BR>
+Removed null values
+<BR>
+Split features & target
+<BR>
+Label encoded target variable
+<BR>
+OneHotEncoded categorical columns using ColumnTransformer
+
+<h2>Models Trained</h2>
+
+<h3>Compared multiple models:</h3>
+
+Decision Tree Classifier
+<br>
+Random Forest Classifier ✅
+<br>
+K-Nearest Neighbors (KNN)
+<br>
+Used GridSearchCV for hyperparameter tuning.
+
+<h2>Best Model</h2>
+Random Forest Classifier
+<br>
+Achieved approximately:
+<br>
+79% Accuracy
+<br>
+Chosen because it gave the best performance.
+
+<h2>Streamlit App Features</h2>
+<br>
+<h4>Users can input:</h4>
+
+Customer details
+<br>
+Billing info
+<br>
+Services subscribed
+<br>
+Then app predicts:
+<br>
+✅ Customer Will Stay
+<br>
+❌ Customer Likely To Churn
