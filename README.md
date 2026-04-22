@@ -129,7 +129,7 @@ OneHotEncoded categorical columns using ColumnTransformer
 
 Decision Tree Classifier -- 79.51 % Accuracy
 <br>
-Random Forest Classifier ✅ -- 79.29 % Accuracy
+Random Forest Classifier ✅ -- 79.79 % Accuracy
 <br>
 K-Nearest Neighbors (KNN) -- 77.33 % Accuracy
 <br>
