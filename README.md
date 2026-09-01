@@ -159,7 +159,7 @@ Then app predicts:
 <br>
 ❌ Customer Likely To Churn
 <h2>Future Improvements</h2>
-So according to the comfussion matrix this model is better at predicting “No churn” as its biased 
+So according to the confussion matrix this model is better at predicting “No churn” as its biased 
 <br>
 dataset is imbalanced:
 <br>
